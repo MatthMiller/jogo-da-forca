@@ -8,4 +8,6 @@ Foi utilizado TypeScript, superset de JavaScript que entre outras vantagens forn
 
 > npm install
 
+> npm install -g ts-node
+
 > ts-node JogoDaForca.ts
