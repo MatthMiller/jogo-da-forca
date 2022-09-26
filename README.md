@@ -7,4 +7,5 @@ Foi utilizado TypeScript, superset de JavaScript que entre outras vantagens forn
 ## Como iniciar/jogar:
 
 > npm install
+
 > ts-node JogoDaForca.ts
