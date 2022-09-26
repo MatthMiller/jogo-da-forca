@@ -24,7 +24,7 @@ class JogoDaForca {
     }
   }
 
-  async loopPerguntas() {
+  async loopPerguntas(): Promise<void> {
     console.clear();
     const palavraInicial: string = this.palavraSorteada
       .split('')
